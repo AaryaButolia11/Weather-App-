@@ -3,7 +3,6 @@
 
 A simple, responsive weather application that allows users to get real-time weather data for any city. Built with **HTML**, **CSS**, and **JavaScript**, the app fetches weather data from the [OpenWeatherMap API](https://openweathermap.org/api) and features light/dark theme switching for a better user experience.
 
-![Weather App Screenshot]
 ![Screenshot 2025-05-07 213044](https://github.com/user-attachments/assets/38bacb85-23d5-4f21-a8b8-bd0b191b48f1)
 ![Screenshot 2025-05-07 213051](https://github.com/user-attachments/assets/a767da82-c849-4c75-b568-06bcd777ff48)
 
@@ -62,13 +61,7 @@ const API_KEY = "YOUR_API_KEY_HERE";
 
    Or use Live Server in VS Code for development
 
-weather-app/
-│
-├── index.html          # Main HTML file
-├── styles.css          # All styles and theming
-├── script.js           # Main JS logic
-├── screenshots/        # Optional folder for screenshots
-└── README.md           # Project documentation
+![image](https://github.com/user-attachments/assets/2287ff63-7ca7-4dd1-877f-3a334727b7fa)
 
 ✅ To Do
  Add unit tests
