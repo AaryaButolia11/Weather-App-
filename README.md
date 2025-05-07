@@ -73,6 +73,7 @@ const API_KEY = "YOUR_API_KEY_HERE";
  Add geolocation support to get weather for current location
 
 🤝 Contributing
+
 Contributions are welcome!
 Feel free to open issues or submit pull requests to enhance the app.
 
