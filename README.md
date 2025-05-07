@@ -69,3 +69,17 @@ weather-app/
 ├── script.js           # Main JS logic
 ├── screenshots/        # Optional folder for screenshots
 └── README.md           # Project documentation
+
+✅ To Do
+ Add unit tests
+
+ Add autocomplete suggestions for cities
+
+ Improve mobile responsiveness
+
+ Add geolocation support to get weather for current location
+
+🤝 Contributing
+Contributions are welcome!
+Feel free to open issues or submit pull requests to enhance the app.
+
