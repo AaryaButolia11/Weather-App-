@@ -31,7 +31,9 @@ A simple, responsive weather application that allows users to get real-time weat
 
 | Dark Mode                         | Light Mode                         |
 |----------------------------------|------------------------------------|
-| ![dark-mode](screenshots/dark.png) | ![light-mode](screenshots/light.png) |
+| ![Screenshot 2025-05-07 213044](https://github.com/user-attachments/assets/42f311b6-187c-4468-8c00-d21c63ba316e)
+ | ![Uploading Screenshot 2025-05-07 213051.png…]()
+ |
 
 ---
 
