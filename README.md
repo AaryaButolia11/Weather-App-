@@ -27,15 +27,6 @@ A simple, responsive weather application that allows users to get real-time weat
 
 ---
 
-## 🖼️ Screenshots
-
-| Dark Mode                         | Light Mode                         |
-|----------------------------------|------------------------------------|
-| ![Screenshot 2025-05-07 213044](https://github.com/user-attachments/assets/42f311b6-187c-4468-8c00-d21c63ba316e)
- | ![Uploading Screenshot 2025-05-07 213051.png…]()
- |
-
----
 
 ## 🛠️ Tech Stack
 
@@ -49,6 +40,32 @@ A simple, responsive weather application that allows users to get real-time weat
 ## 📦 Setup Instructions
 
 1. **Clone the repository**
-   ```bash
+
    git clone https://github.com/your-username/weather-app.git
-   cd weather-app
+   cd weather-app 
+2. Get your API Key
+
+     Sign up at OpenWeatherMap
+
+     Go to your dashboard and copy your API key
+
+3. Add API Key
+
+     Open script.js
+
+     Replace the placeholder API key:
+
+const API_KEY = "YOUR_API_KEY_HERE";
+
+4. Open in browser
+   Open index.html in your browser
+
+   Or use Live Server in VS Code for development
+
+weather-app/
+│
+├── index.html          # Main HTML file
+├── styles.css          # All styles and theming
+├── script.js           # Main JS logic
+├── screenshots/        # Optional folder for screenshots
+└── README.md           # Project documentation
