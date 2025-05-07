@@ -21,8 +21,7 @@ A simple, responsive weather application that allows users to get real-time weat
 
 ## 🚀 Live Demo
 
-[Click here to try it out](#)  
-*(Update with actual GitHub Pages/Netlify/Vercel link if hosted)*
+https://weather-app-peach-nine-79.vercel.app/
 
 ---
 
